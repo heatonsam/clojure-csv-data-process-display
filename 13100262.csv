@@ -1,0 +1,30 @@
+decimals,sex,symbol,geo,value,ref_date,uom_id,age_group,vector,dguid,status,uom,terminated,coordinate,scalar_id,scalar_factor,student_response
+0,Males,,Canada,14,2002,239,11 years,v30413272,,,Percent,,1.1.1.2,0,units,Sometimes
+0,Males,,Canada,15,2002,239,11 years,v30413273,,,Percent,,1.1.1.3,0,units,Often
+0,Males,,Canada,38,2002,239,11 years,v30413274,,,Percent,,1.1.1.4,0,units,Always
+0,Males,,Canada,3,2002,239,11 years,v30413275,,,Percent,,1.1.1.5,0,units,Do not ride a bicycle
+0,Males,,Canada,47,2002,239,13 years,v30413276,,,Percent,,1.1.2.1,0,units,Rarely or never
+0,Males,,Canada,16,2002,239,13 years,v30413277,,,Percent,,1.1.2.2,0,units,Sometimes
+0,Males,,Canada,11,2002,239,13 years,v30413278,,,Percent,,1.1.2.3,0,units,Often
+0,Males,,Canada,21,2002,239,13 years,v30413279,,,Percent,,1.1.2.4,0,units,Always
+0,Males,,Canada,4,2002,239,13 years,v30413280,,,Percent,,1.1.2.5,0,units,Do not ride a bicycle
+0,Males,,Canada,63,2002,239,15 years,v30413281,,,Percent,,1.1.3.1,0,units,Rarely or never
+0,Males,,Canada,9,2002,239,15 years,v30413282,,,Percent,,1.1.3.2,0,units,Sometimes
+0,Males,,Canada,7,2002,239,15 years,v30413283,,,Percent,,1.1.3.3,0,units,Often
+0,Males,,Canada,10,2002,239,15 years,v30413284,,,Percent,,1.1.3.4,0,units,Always
+0,Males,,Canada,11,2002,239,15 years,v30413285,,,Percent,,1.1.3.5,0,units,Do not ride a bicycle
+0,Females,,Canada,24,2002,239,11 years,v30413286,,,Percent,,1.2.1.1,0,units,Rarely or never
+0,Females,,Canada,17,2002,239,11 years,v30413287,,,Percent,,1.2.1.2,0,units,Sometimes
+0,Females,,Canada,13,2002,239,11 years,v30413288,,,Percent,,1.2.1.3,0,units,Often
+0,Females,,Canada,41,2002,239,11 years,v30413289,,,Percent,,1.2.1.4,0,units,Always
+0,Females,,Canada,5,2002,239,11 years,v30413290,,,Percent,,1.2.1.5,0,units,Do not ride a bicycle
+0,Females,,Canada,45,2002,239,13 years,v30413291,,,Percent,,1.2.2.1,0,units,Rarely or never
+0,Females,,Canada,17,2002,239,13 years,v30413292,,,Percent,,1.2.2.2,0,units,Sometimes
+0,Females,,Canada,10,2002,239,13 years,v30413293,,,Percent,,1.2.2.3,0,units,Often
+0,Females,,Canada,18,2002,239,13 years,v30413294,,,Percent,,1.2.2.4,0,units,Always
+0,Females,,Canada,11,2002,239,13 years,v30413295,,,Percent,,1.2.2.5,0,units,Do not ride a bicycle
+0,Females,,Canada,52,2002,239,15 years,v30413296,,,Percent,,1.2.3.1,0,units,Rarely or never
+0,Females,,Canada,10,2002,239,15 years,v30413297,,,Percent,,1.2.3.2,0,units,Sometimes
+0,Females,,Canada,10,2002,239,15 years,v30413298,,,Percent,,1.2.3.3,0,units,Often
+0,Females,,Canada,12,2002,239,15 years,v30413299,,,Percent,,1.2.3.4,0,units,Always
+0,Females,,Canada,16,2002,239,15 years,v30413300,,,Percent,,1.2.3.5,0,units,Do not ride a bicycle
