@@ -10,7 +10,7 @@ As written, the code will work for the specific included CSV file, and there are
 
 The DynamoDB credentials are not included constants.clj and therefore not all features will work without providing your own credentials.
 
-This project takes advantage of the following Clojure or JavaScript libraries:
+This project takes advantage of the following Clojure(Script) or JavaScript libraries:
 
 - Ring
 - Compojure
