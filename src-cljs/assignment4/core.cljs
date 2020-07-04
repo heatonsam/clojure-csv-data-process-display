@@ -1,7 +1,7 @@
-(ns assignment4.core
+(ns clj-csv-ddb.core
   (:require-macros [cljs.core.async.macros :refer [go]])
-  (:require [assignment4.helmet_response :as hr]
-            [assignment4.util :as util :refer [pct maps-filtered-by-value data-gender-filter data-age-filter ages genders label]]
+  (:require [clj-csv-ddb.helmet_response :as hr]
+            [clj-csv-ddb.util :as util :refer [pct maps-filtered-by-value data-gender-filter data-age-filter ages genders label]]
             [reagent.core :as reagent :refer [atom]]
             [react-vis :as rvis :refer [XYPlot YAxis HorizontalBarSeries]]
             [cljs-http.client :as http]

@@ -1,4 +1,4 @@
-(defproject assignment4 "0.1.0-SNAPSHOT"
+(defproject clj-csv-ddb "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
 
@@ -17,7 +17,7 @@
                  [com.taoensso/faraday "1.10.1"]]
   :plugins [[lein-ring "0.12.5"]
             [cider/cider-nrepl "0.24.0"]]
-  :ring {:handler assignment4.handler/app}
+  :ring {:handler clj-csv-ddb.handler/app}
   :profiles
   {:dev {:dependencies [[javax.servlet/servlet-api "2.5"]
                         [ring/ring-mock "0.3.2"]

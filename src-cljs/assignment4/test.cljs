@@ -1,8 +1,8 @@
-(ns assignment4.tests
+(ns clj-csv-ddb.tests
   (:require-macros [cljs.core.async.macros :refer [go]])
   (:require [cljs.test :refer-macros [deftest is testing run-tests]]
-            [assignment4.core :as core]
-            [assignment4.helmet_response :as hr]
+            [clj-csv-ddb.core :as core]
+            [clj-csv-ddb.helmet_response :as hr]
             [cljs.core.async :as async :refer [<!]]
             [clojure.spec.alpha :as s]))
 

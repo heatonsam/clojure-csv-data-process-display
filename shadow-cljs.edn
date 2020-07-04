@@ -17,13 +17,13 @@
 
         :modules
         {:main
-         {:entries [assignment4.core]}}
+         {:entries [clj-csv-ddb.core]}}
 
         :devtools
         ;; before live-reloading any code call this function
-        {:before-load assignment4.core/stop
+        {:before-load clj-csv-ddb.core/stop
          ;; after live-reloading finishes call this function
-         :after-load assignment4.core/start
+         :after-load clj-csv-ddb.core/start
          ;; serve the public directory over http at port 8700
          :http-root    "public"
          :http-port    8700

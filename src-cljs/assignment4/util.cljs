@@ -1,4 +1,4 @@
-(ns assignment4.util
+(ns clj-csv-ddb.util
   (:require [clojure.string :as str]
             [goog.string :as gstring]))
 

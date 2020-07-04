@@ -1,4 +1,4 @@
-(ns assignment4.helmet_response
+(ns clj-csv-ddb.helmet_response
   (:require [clojure.spec.alpha :as s]))
 
 (s/def ::vector-pattern (s/and
